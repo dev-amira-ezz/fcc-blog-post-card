@@ -1,15 +1,16 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: #ddd;
+  background-color: #fff;
 }
 
 .blog-post-card {
   background-color: white;
-  border: solid 4px lightgray;
+  border: solid 1px lightgray;
   border-radius: 5%;
   width: 30%;
   text-align: center;
   margin: 3rem auto;
+  box-shadow: 2px 2px 10px 2px lightgray;
 }
 
 .post-img {
@@ -22,7 +23,8 @@ body {
   padding: 1rem;
 }
 
-.post-title, .post-excerpt {
+.post-title,
+.post-excerpt {
   margin: 1rem;
 }
 .post-title {
@@ -33,3 +35,16 @@ body {
   color: #666;
 }
 
+.read-more {
+  color: #eee;
+  background-color: #333;
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 10%;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.read-more:hover {
+  background-color: darkblue;
+}

@@ -23,7 +23,6 @@ This is a lab project built as part of the [Full-Stack Web Development certifica
 6. The .post-content element should be styled so that there is padding inside the card.
 7. The .post-title and .post-excerpt elements should have a text color other than the default and margins on all sides.
 8. The .read-more element should be styled like a button and have:
-
    - A text color other than the default.
    - A background color.
    - Margins on all sides.
@@ -34,7 +33,8 @@ This is a lab project built as part of the [Full-Stack Web Development certifica
 
 ## 🛠️ Technologies Used
 
-- HTML5
+- HTML5.
+- CSS3.
 
 ## 🚀 Live Demo
 
